@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-ChallengeApplication<mindex-java-code-challenge>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.mindex.challenge.ChallengeApplication",
+      "projectName": "mindex-java-code-challenge",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
